@@ -2,8 +2,5 @@
 	"appId": "io.ionic.starter",
 	"appName": "thanks",
 	"webDir": "build",
-	"bundledWebRuntime": false,
-	"server": {
-		"url": "http://172.30.1.45:8101"
-	}
+	"bundledWebRuntime": false
 }
